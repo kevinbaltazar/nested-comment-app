@@ -1,7 +1,7 @@
 # nestedCommnentApp
 
 ## Build Setup
-bast ```
+```bast
 $ composer i
 $ npm install
 
